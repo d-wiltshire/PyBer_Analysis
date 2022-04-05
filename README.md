@@ -23,8 +23,7 @@ This chart illustrates the difference in total fares among the city types, with 
 
 ## Summary
 
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-
-Much more information would need to be gathered to provide compelling reasons to change business practices, but we can make some recommendations based on this data. For example:
+Much more information would need to be gathered to provide compelling reasons to change business practices, but we can make some recommendations for further research based on this data. For example:
    - It would be prudent to learn more about why the rural fares are so much higher than urban fares. Are the higher rates simply a matter of more distance traveled? Are incentives being paid for rural drivers in order to have enough drivers to sustain the service? 
    - In addition, more research should be done on when and why trends occur according to the week and month. Is it possible to correlate the peaks seen in the graph above with specific holidays or other reasons why demand might increase? Is it possible to prepare for anticipated increased demand by incentivizing additional drivers? 
+   - We might also look into what effects the large number of short trips has on urban drivers. Are the low average urban fares due to competition in the market by too many drivers for too few riders? Do the low average fares create quick turnover among drivers who work for a short period of time and then quit the company? Would other metrics (like rider satisfaction, not included in the datasets here) be improved if there were a smaller cohort of urban drivers who stayed with the company for longer and could develop experience in customer satisfaction?
