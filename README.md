@@ -12,7 +12,7 @@ The results comparing metrics among the city types can be summed up with the fol
 
 This chart reveals that among our data, the vast majority (1,625) of the total rides took place in urban cities, although urban cities had the lowest average fare per ride and average fare per driver. The total rides, total drivers, and total fares are directly positively correlated with the city size, and the average fare per ride and average fare per driver are directly negatively correlated with city size. 
 
-We may assume that these correlations exist because larger cities are more densely populated (more individuals needing rides in a small area, and more individuals available to drive riders) and because there is less distance between places of interest in a dense city than in a rural space (shorter rides lead to lower fares). However, we cannot prove causation from this data; more research would be needed.
+We may assume that these correlations exist because larger cities are more densely populated (more individuals needing rides in a small area, and more individuals available to drive riders) and because there is less distance between places of interest in a dense city than in a rural space (shorter rides lead to lower fares). However, we cannot prove causation from this data; more research would be needed. It is also possible that, depending on how the company compensates its drivers, the higher rural fares might be due to incentives paid to rural drivers to take riders, if rural drivers are scarce.
 
 To illustrate demand over time, we have charted ride data according to city type by week between January and April 2019:
 
@@ -24,3 +24,6 @@ This chart illustrates the difference in total fares among the city types, with 
 ## Summary
 
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
+Much more information would need to be gathered to provide compelling reasons to change business practices, but we can make some recommendations based on this data.
+   - 
