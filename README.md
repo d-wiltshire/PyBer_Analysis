@@ -14,10 +14,13 @@ This chart reveals that among our data, the vast majority (1,625) of the total r
 
 We may assume that these correlations exist because larger cities are more densely populated (more individuals needing rides in a small area, and more individuals available to drive riders) and because there is less distance between places of interest in a dense city than in a rural space (shorter rides lead to lower fares). However, we cannot prove causation from this data; more research would be needed.
 
-
+To illustrate demand over time, we have charted ride data according to city type by week between January and April 2019:
 
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/100863488/161856872-cc0dbbad-8897-4e7f-a420-8aefa85f207b.png)
 
+This chart illustrates the difference in total fares among the city types, with the most fares being in the "urban" category and the fewest in the "rural" category. We can observe some trends common to all three (for example, all three city types exhibit peaks in late February).
 
-Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+
+## Summary
+
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
