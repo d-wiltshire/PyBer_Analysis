@@ -12,7 +12,12 @@ The results comparing metrics among the city types can be summed up with the fol
 
 This chart reveals that among our data, the vast majority (1,625) of the total rides took place in urban cities, although urban cities had the lowest average fare per ride and average fare per driver. The total rides, total drivers, and total fares are directly positively correlated with the city size, and the average fare per ride and average fare per driver are directly negatively correlated with city size. 
 
-We may assume that these are true because 
+We may assume that these correlations exist because larger cities are more densely populated (more individuals needing rides in a small area, and more individuals available to drive riders) and because there is less distance between places of interest in a dense city than in a rural space (shorter rides lead to lower fares). However, we cannot prove causation from this data; more research would be needed.
+
+
+
+![PyBer_fare_summary](https://user-images.githubusercontent.com/100863488/161856872-cc0dbbad-8897-4e7f-a420-8aefa85f207b.png)
+
 
 Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
